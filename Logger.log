@@ -1,0 +1,598 @@
+INFO  :: 23-Apr-2021, 16:53:36,957 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 16:53:37,091 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 16:53:37,321 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 16:53:37,444 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 16:53:37,627 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 16:53:39,395 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 16:53:50,113 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 16:53:50,305 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ead51f58a4b92783744660cbc6cb8df2)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 16:54:00,367 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Select...']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ead51f58a4b92783744660cbc6cb8df2
+*** Element info: {Using=xpath, value=//span[text()='Select...']} 
+ INFO  :: 23-Apr-2021, 16:54:10,416 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Select...']' is clicked 
+ INFO  :: 23-Apr-2021, 16:54:20,436 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='Health Insurance']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ead51f58a4b92783744660cbc6cb8df2
+*** Element info: {Using=xpath, value=//li[text()='Health Insurance']} 
+ INFO  :: 23-Apr-2021, 16:54:30,495 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //li[text()='Health Insurance']' is clicked 
+ INFO  :: 23-Apr-2021, 16:54:40,539 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//textarea[contains(@class,'textarea wrev-user-input')]"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ead51f58a4b92783744660cbc6cb8df2
+*** Element info: {Using=xpath, value=//textarea[contains(@class,'textarea wrev-user-input')]} 
+ INFO  :: 23-Apr-2021, 16:54:50,591 :: com.wallethub.utils.WebElementWrappers :: Text is entered for Proxy element for: DefaultElementLocator 'By.xpath: //textarea[contains(@class,'textarea wrev-user-input')]' 
+ INFO  :: 23-Apr-2021, 16:55:00,666 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Submit']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:51930}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: ead51f58a4b92783744660cbc6cb8df2
+*** Element info: {Using=xpath, value=//div[text()='Submit']} 
+ INFO  :: 23-Apr-2021, 16:55:10,694 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Submit']' is clicked 
+ INFO  :: 23-Apr-2021, 16:55:20,941 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 16:55:32,515 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:03:42,769 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:03:42,921 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:03:43,137 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:03:43,290 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:03:43,441 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:03:45,156 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 17:03:45,156 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:03:55,033 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:03:55,272 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (5661795923b44e2d3ac1b0db6feaf5a2)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:03:55,272 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:04:05,317 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()='Select...']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5661795923b44e2d3ac1b0db6feaf5a2
+*** Element info: {Using=xpath, value=//span[text()='Select...']} 
+ INFO  :: 23-Apr-2021, 17:04:15,392 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Select...']' is clicked 
+ INFO  :: 23-Apr-2021, 17:04:25,436 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//li[text()='Health Insurance']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5661795923b44e2d3ac1b0db6feaf5a2
+*** Element info: {Using=xpath, value=//li[text()='Health Insurance']} 
+ INFO  :: 23-Apr-2021, 17:04:35,474 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //li[text()='Health Insurance']' is clicked 
+ INFO  :: 23-Apr-2021, 17:04:45,540 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//textarea[contains(@class,'textarea wrev-user-input')]"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5661795923b44e2d3ac1b0db6feaf5a2
+*** Element info: {Using=xpath, value=//textarea[contains(@class,'textarea wrev-user-input')]} 
+ INFO  :: 23-Apr-2021, 17:04:55,556 :: com.wallethub.utils.WebElementWrappers :: Text is entered for Proxy element for: DefaultElementLocator 'By.xpath: //textarea[contains(@class,'textarea wrev-user-input')]' 
+ INFO  :: 23-Apr-2021, 17:05:05,604 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//div[text()='Submit']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52159}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5661795923b44e2d3ac1b0db6feaf5a2
+*** Element info: {Using=xpath, value=//div[text()='Submit']} 
+ INFO  :: 23-Apr-2021, 17:05:15,666 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Submit']' is clicked 
+ INFO  :: 23-Apr-2021, 17:05:15,666 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:05:25,908 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:05:37,426 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:05:37,480 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:08:36,898 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:08:37,036 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:08:37,238 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:08:37,335 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:08:37,503 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:08:39,388 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 17:08:39,388 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:08:49,435 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:08:49,637 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (7a6f681cf0746106c04688a499664bc1)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:08:49,637 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:11:23,712 :: stepDefinitions.WalletHub_Steps :: element click intercepted: Element <a href="" ng-click="switch_tab('login');" role="tab" ng-aria-selected="is_tab('login')" tabindex="0" aria-selected="false">...</a> is not clickable at point (790, 38). Other element would receive the click: <div class="search" data-ng-class="{ focus: search_focused }">...</div>
+  (Session info: chrome=90.0.4430.72)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52351}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 715aba94bddd1ad36afce2e58296aa3f 
+ INFO  :: 23-Apr-2021, 17:11:23,715 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:11:33,260 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (715aba94bddd1ad36afce2e58296aa3f)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:11:33,483 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (715aba94bddd1ad36afce2e58296aa3f)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:11:33,483 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:11:33,572 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (715aba94bddd1ad36afce2e58296aa3f)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:11:33,668 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (715aba94bddd1ad36afce2e58296aa3f)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:11:33,668 :: stepDefinitions.WalletHub_Steps ::  
+ INFO  :: 23-Apr-2021, 17:11:33,668 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:11:43,735 :: stepDefinitions.WalletHub_Steps :: java.lang.reflect.InvocationTargetException
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: driver.version: RemoteWebDriver 
+ INFO  :: 23-Apr-2021, 17:11:43,735 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:20:50,035 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:20:50,171 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:20:50,462 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:20:50,609 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:20:50,792 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:21:00,993 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:21:00,993 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:21:10,198 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:21:10,461 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:21:10,461 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:21:10,554 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:21:10,663 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:21:11,224 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:21:11,224 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:21:11,441 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (3cacadf88cfce9c4c49fe2faad6ef22e)] -> xpath: (//span[@class='brgm-list-title'])[3]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:23:27,672 :: com.wallethub.utils.WebElementWrappers :: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' (tried for 120 second(s) with 500 milliseconds interval) 
+ INFO  :: 23-Apr-2021, 17:24:03,972 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:24:04,124 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:24:04,403 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:24:04,524 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:24:04,711 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:24:14,906 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:24:14,907 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:24:24,856 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:24:25,120 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:24:25,121 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:24:25,210 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:24:25,287 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:24:25,911 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (546fd7fda61b47d29764fe33dbab5ddb)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:24:25,911 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:24:37,484 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:24:49,114 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:24:59,142 :: com.wallethub.pageobjects.WalletHub_PageObjects :: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='pr-rec-img-wrapper']/following-sibling::div[1]"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:52732}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 546fd7fda61b47d29764fe33dbab5ddb
+*** Element info: {Using=xpath, value=//div[@class='pr-rec-img-wrapper']/following-sibling::div[1]} 
+ INFO  :: 23-Apr-2021, 17:24:59,142 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:26:30,285 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:26:30,360 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:26:30,558 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:26:30,673 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:26:30,841 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:26:41,037 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:26:41,037 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:26:51,000 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:26:51,257 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:26:51,257 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:26:51,360 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:26:51,469 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:26:52,087 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (76cf3407cc9e4879de61645ff621586a)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:26:52,087 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:27:04,283 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:27:15,570 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:30:43,009 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:30:43,146 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:30:43,403 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:30:43,529 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:30:43,769 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:30:53,985 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:30:53,985 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:31:03,358 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:31:03,625 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:31:03,625 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:31:03,717 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:31:03,814 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:31:04,372 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1a22a28d156869b5a094f849dafd17fc)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:31:04,372 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:31:16,109 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:31:27,575 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:32:11,637 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:32:11,758 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:32:11,940 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:32:12,030 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:32:12,215 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:32:22,365 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:32:22,366 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:32:33,109 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:32:33,374 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:32:33,374 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:32:33,479 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:32:33,573 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:32:34,272 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (221fcbf85202b4e0527662d4bce19332)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:32:34,273 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:32:46,667 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:32:57,950 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:32:57,951 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:34:47,864 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:34:47,967 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:34:48,121 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:34:48,198 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:34:48,326 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:34:58,474 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:34:58,475 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:35:07,742 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:35:07,993 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:35:07,993 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:35:08,069 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:35:08,169 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:35:08,846 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c88e04f93844245c99d7c78eb2da2fe5)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:35:08,846 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:35:20,908 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:35:32,304 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:41:33,418 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:41:33,513 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:41:33,727 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:41:33,820 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:41:34,016 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:41:44,167 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:41:44,167 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:41:53,766 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:41:54,066 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:41:54,067 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:41:54,204 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:41:54,332 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:41:55,106 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (35080616c27bc60e98ae0a08545e0afc)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:41:55,106 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:42:07,180 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:42:18,590 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:42:28,646 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:45:49,218 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:45:49,351 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:45:49,568 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:45:49,722 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:45:49,903 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:46:00,118 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:46:00,118 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:46:10,107 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:46:10,449 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:46:10,450 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:46:10,595 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:46:10,746 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:46:11,519 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ae1b26bdc771fddaf712f3f70c806837)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:46:11,519 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:46:23,773 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:46:35,098 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:46:45,170 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 17:47:49,825 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:47:49,970 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:47:50,352 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:47:50,618 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:47:51,061 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:48:01,289 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:48:01,290 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:48:11,136 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:48:11,371 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:48:11,371 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:48:11,466 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:48:11,554 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:48:12,190 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:48:12,190 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:48:18,376 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (ac623607744d9e618c93bc0b4762ec49)] -> xpath: (//span[@class='brgm-list-title'])[3]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:50:34,581 :: com.wallethub.utils.WebElementWrappers :: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' (tried for 120 second(s) with 500 milliseconds interval) 
+ INFO  :: 23-Apr-2021, 17:59:13,496 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 17:59:13,573 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:59:13,741 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 17:59:13,832 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 17:59:13,971 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 17:59:24,116 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 17:59:24,116 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 17:59:33,520 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:59:33,775 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 17:59:33,775 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 17:59:33,867 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 17:59:33,952 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 17:59:34,629 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (1c58fc002613c3fc261ce6229258bccd)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 17:59:34,629 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 17:59:46,799 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 17:59:58,301 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:00:08,353 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 18:00:44,143 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:00:44,279 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:00:44,496 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:00:44,652 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:00:44,834 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:00:47,136 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c52e2a23da1bf233802179b3a9d1939a)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 18:00:47,136 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:02:28,246 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:02:28,402 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:02:28,644 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:02:28,798 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:02:28,983 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:02:30,846 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (6b2a8d5b72b1f74bb699a89c2c12248b)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 18:02:30,846 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:02:45,961 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 18:02:57,335 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:02:57,388 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 18:06:59,088 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:06:59,253 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:06:59,465 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:06:59,628 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:06:59,821 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:07:01,649 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (2c68ca564b7f1bc45b5594157b25cb78)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 18:07:01,650 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:07:16,374 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 18:07:27,756 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:07:27,811 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 18:12:37,500 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:12:37,650 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:12:37,920 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:12:38,030 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:12:38,225 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:12:39,968 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (e7b194d06975302db03677b40abe2e71)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 18:12:39,969 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:12:55,218 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 18:13:06,672 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:13:06,732 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 18:18:26,040 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (27da88561af6cc15fbf547454c79a711)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:18:26,180 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (27da88561af6cc15fbf547454c79a711)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:18:26,329 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (27da88561af6cc15fbf547454c79a711)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:18:26,420 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (27da88561af6cc15fbf547454c79a711)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:18:26,558 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (27da88561af6cc15fbf547454c79a711)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:18:36,692 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 18:18:36,693 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:18:51,178 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 18:19:02,637 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:19:12,681 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is not updated 
+ INFO  :: 23-Apr-2021, 18:20:27,177 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (4e920223474e14a91b107a3012f61069)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 18:20:27,310 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (4e920223474e14a91b107a3012f61069)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:20:27,539 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (4e920223474e14a91b107a3012f61069)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 18:20:27,649 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (4e920223474e14a91b107a3012f61069)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 18:20:27,830 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (4e920223474e14a91b107a3012f61069)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 18:20:37,999 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 18:20:38,000 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 18:20:52,707 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 18:21:04,196 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 18:21:14,252 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is not updated 
+ INFO  :: 23-Apr-2021, 18:21:14,253 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 20:12:12,337 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (55f8780952711ae2139b54e94cc1aa09)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:12:12,449 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (55f8780952711ae2139b54e94cc1aa09)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:12:12,629 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (55f8780952711ae2139b54e94cc1aa09)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:12:12,707 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (55f8780952711ae2139b54e94cc1aa09)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:12:12,827 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (55f8780952711ae2139b54e94cc1aa09)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:37:16,747 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:37:16,851 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:37:17,021 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:37:17,099 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:37:17,254 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:37:19,104 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8c27e9d66cdaacb6ad9e3699ff4bd2e1)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:37:19,351 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:38:21,426 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:38:21,593 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:38:21,838 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:38:21,968 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:38:22,218 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:38:24,117 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (083b32e661463d653a5617a09d2db28f)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:38:24,366 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:39:51,291 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:39:51,466 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:39:51,649 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:39:51,728 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:39:51,867 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:39:53,807 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (881863a9859abf5f83c5521dde296f8b)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:39:54,021 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:40:43,000 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:40:43,092 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:40:43,244 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:40:43,338 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:40:43,458 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:40:45,253 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (074c58bbb8b80a4dc4fb5a8123812eda)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:40:45,543 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:41:58,076 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:41:58,166 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:41:58,338 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:41:58,432 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:41:58,568 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:42:00,596 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (fc933023e7c1d12cc746bfdf9d08e5e8)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:42:00,856 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:44:36,277 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 20:44:36,386 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:44:36,570 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 20:44:36,663 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 20:44:36,798 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 20:44:38,585 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (33387a906814cb5978129c6c89c93c77)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 20:44:38,806 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 20:44:57,234 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 20:45:09,119 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 20:45:09,387 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is updated 
+ INFO  :: 23-Apr-2021, 20:45:09,395 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 21:02:32,781 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:02:32,888 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:02:33,069 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:02:33,161 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:02:33,312 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:02:35,353 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (870c346b9defd23c38f969fe7119b7db)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:02:35,577 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:02:52,804 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:03:04,257 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:03:04,459 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is updated 
+ INFO  :: 23-Apr-2021, 21:03:04,463 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 21:13:32,824 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:13:32,931 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:13:33,111 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:13:33,211 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:13:33,388 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:13:35,252 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (712dc7bcfaf1c70cb5c2b4a4275944c6)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:13:35,453 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:13:51,982 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:14:03,810 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:14:04,078 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is updated 
+ INFO  :: 23-Apr-2021, 21:14:04,084 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 21:15:00,267 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:15:00,440 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:15:00,725 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:15:00,853 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:15:01,125 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:15:03,111 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8fcea460e9c6a8baf6dc15f0439b655f)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:15:03,415 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:15:20,367 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:15:31,900 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:15:32,173 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is updated 
+ INFO  :: 23-Apr-2021, 21:15:32,179 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 21:17:39,768 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:17:39,956 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:17:40,250 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:17:40,409 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:17:40,611 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:17:51,057 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 21:17:51,057 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:18:01,125 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:18:01,799 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:18:01,800 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 21:18:01,909 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 21:18:02,018 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 21:18:02,651 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 21:18:02,963 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 21:18:14,603 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=' Your Review']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62148}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0621fffd36a139eb99feae2045ec7c85
+*** Element info: {Using=xpath, value=//span[text()=' Your Review']} 
+ INFO  :: 23-Apr-2021, 21:18:25,185 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (0621fffd36a139eb99feae2045ec7c85)] -> xpath: (//span[@class='brgm-list-title'])[3]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:20:25,721 :: com.wallethub.utils.WebElementWrappers :: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=90.0.4430.72)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62148}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 0621fffd36a139eb99feae2045ec7c85
+*** Element info: {Using=xpath, value=//div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]} 
+ INFO  :: 23-Apr-2021, 21:20:26,882 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:20:27,006 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:20:27,288 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:20:27,467 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:20:27,726 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:20:38,283 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 21:20:38,283 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:20:48,546 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:20:49,255 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:20:49,256 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 21:20:49,433 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 21:20:49,626 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 21:20:50,365 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (883216ef8ce52f9222bd5432dcd98222)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 21:20:50,646 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 21:21:02,388 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=' Your Review']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62341}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 883216ef8ce52f9222bd5432dcd98222
+*** Element info: {Using=xpath, value=//span[text()=' Your Review']} 
+ INFO  :: 23-Apr-2021, 21:21:14,602 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:21:26,183 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:21:36,400 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is not updated 
+ INFO  :: 23-Apr-2021, 21:21:36,401 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ INFO  :: 23-Apr-2021, 21:25:29,214 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:25:29,350 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:25:29,567 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:25:29,677 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:25:29,853 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:25:31,973 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (427db97444e090a8b68e8b023ee29311)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:25:31,973 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:26:16,025 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:16,178 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:16,523 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:26:16,648 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:16,843 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:26:27,301 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //span[text()='Login']' is clicked 
+ INFO  :: 23-Apr-2021, 21:26:27,302 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:26:37,968 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:26:38,736 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:26:38,736 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 21:26:38,862 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:39,037 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:39,752 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 21:26:40,146 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (359a252649c5ec85744af2868f306758)] -> xpath: //div[text()='Submit']] is clicked 
+ INFO  :: 23-Apr-2021, 21:26:40,146 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 21:26:50,226 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=' Your Review']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:62778}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 359a252649c5ec85744af2868f306758
+*** Element info: {Using=xpath, value=//span[text()=' Your Review']} 
+ INFO  :: 23-Apr-2021, 21:29:48,863 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:29:48,988 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:29:49,156 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:29:49,261 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:29:49,398 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:29:55,814 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:29:55,815 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:30:06,824 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:30:07,318 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (8199a67a780c3849a693cc7375d2e2b5)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:30:07,319 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 21:36:02,372 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:02,504 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:02,742 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 21:36:02,867 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:03,066 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 21:36:08,806 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:08,807 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 21:36:17,382 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 21:36:17,998 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 21:36:17,999 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 21:36:18,100 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:18,222 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:18,964 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 21:36:19,275 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: //div[text()='Submit']] is clicked 
+ INFO  :: 23-Apr-2021, 21:36:19,275 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 21:36:29,348 :: com.wallethub.utils.WebElementWrappers :: no such element: Unable to locate element: {"method":"xpath","selector":"//span[text()=' Your Review']"}
+  (Session info: chrome=90.0.4430.72)
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'PCDBBPXP73', ip: '192.168.191.37', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_281'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 90.0.4430.72, chrome: {chromedriverVersion: 90.0.4430.24 (4c6d850f087da..., userDataDir: C:\Users\IALPHO~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:63302}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 58073593c3b0e356e71efb22f6517f9e
+*** Element info: {Using=xpath, value=//span[text()=' Your Review']} 
+ INFO  :: 23-Apr-2021, 21:36:29,915 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (58073593c3b0e356e71efb22f6517f9e)] -> xpath: (//span[@class='brgm-list-title'])[3]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 22:11:16,712 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> css selector: div#join-light>form>div>nav>ul>li:nth-of-type(2)>a] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:16,862 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> id: em-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:17,054 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> id: em-ipt] 
+ INFO  :: 23-Apr-2021, 22:11:17,173 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> id: pw1-ipt] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:17,339 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> id: pw1-ipt] 
+ INFO  :: 23-Apr-2021, 22:11:23,338 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: //span[text()='Login']] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:23,339 :: stepDefinitions.WalletHub_Steps :: User logged in successfully 
+ INFO  :: 23-Apr-2021, 22:11:33,865 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: (//*[local-name() = 'svg'])[14]] is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 22:11:34,517 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: (//*[local-name() = 'svg'])[14]] is clicked by Action class 
+ INFO  :: 23-Apr-2021, 22:11:34,517 :: stepDefinitions.WalletHub_Steps :: User has clicked on review star 
+ INFO  :: 23-Apr-2021, 22:11:37,627 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: //span[text()='Select...']] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:37,761 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: //li[text()='Health Insurance']] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:38,621 :: com.wallethub.utils.WebElementWrappers :: Text is entered for [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: //textarea[contains(@class,'textarea wrev-user-input')]] 
+ INFO  :: 23-Apr-2021, 22:11:38,973 :: com.wallethub.utils.WebElementWrappers :: [[ChromeDriver: chrome on WINDOWS (c727c307bd0deddc234c05505e6b0bdc)] -> xpath: //div[text()='Submit']] is clicked 
+ INFO  :: 23-Apr-2021, 22:11:39,086 :: com.wallethub.pageobjects.WalletHub_PageObjects ::  
+ INFO  :: 23-Apr-2021, 22:11:56,989 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[text()='Continue']' is clicked 
+ INFO  :: 23-Apr-2021, 22:11:56,992 :: stepDefinitions.WalletHub_Steps :: User has submitted a review 
+ INFO  :: 23-Apr-2021, 22:12:10,630 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='brgm-list-title'])[3]' is mouse over by Action class 
+ INFO  :: 23-Apr-2021, 22:12:22,360 :: com.wallethub.utils.WebElementWrappers :: Proxy element for: DefaultElementLocator 'By.xpath: //div[@class='brgm-list brgm-user-list ng-enter-element']//a[1]' is clicked by Action class 
+ INFO  :: 23-Apr-2021, 22:12:22,641 :: com.wallethub.pageobjects.WalletHub_PageObjects :: Review feed is updated 
+ INFO  :: 23-Apr-2021, 22:12:22,646 :: stepDefinitions.WalletHub_Steps :: Review feed was checked for any review submitted 
+ 
